@@ -19,6 +19,7 @@
                  [mount "0.1.16"]
                  [net.gered/aging-session "0.2.0"]
                  [nrepl "0.9.0"]
+                 [pdfboxing "0.1.14"]
                  [org.clojure/clojure "1.10.0"]
                  [org.clojure/tools.logging "1.2.1"]
                  [org.webjars.npm/mini.css "3.0.1"]
